@@ -1,0 +1,32 @@
+{
+    "films": [
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "director": "Frank Darabont",
+            "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+            "plot": "Two imprisoned guys become best friends"
+        },
+        {
+            "title": "The Godfather",
+            "year": 1972,
+            "director": "Francis Ford Coppola",
+            "actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+            "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+        },
+        {
+            "title": "The Godfather: Part II",
+            "year": 1974,
+            "director": "Francis Ford Coppola",
+            "actors": "Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",
+            "plot": "The early life and career of Vito Corleone in 1920s New York is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+        },
+        {
+            "title": "The Dark Knight",
+            "year": 2008,
+            "director": "Christopher Nolan",
+            "actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+            "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+        }
+    ]
+}
